@@ -88,6 +88,23 @@ A comprehensive MERN stack platform revolutionizing how universities manage spor
 
 ---
 
+### 🎤 InterviewReady – AI-Powered Interview Preparation Platform
+
+**🔗 Live Demo:** *[https://interview-ready-ten.vercel.app/](https://interview-ready-ten.vercel.app/)*
+
+A full-stack interview preparation platform designed to help students and job seekers practice technical interviews through AI-powered interactions, coding challenges, and performance analytics.
+
+**✨ Key Features:**
+
+* 🤖 AI-powered mock interview sessions
+* 💻 Integrated coding practice with real-time evaluation
+* 📈 Detailed performance analytics and interview history
+* 🔐 Secure JWT-based authentication and user profiles
+* 📱 Fully responsive interface for desktop and mobile
+
+**🛠️ Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • AI APIs
+
+
 ### [🗺️ Tourist Guide Website](https://himanshukirodiwal21.github.io/Tourist-Guide/)
 
 An interactive travel companion helping explorers discover amazing destinations worldwide.
@@ -129,16 +146,30 @@ A pixel-perfect recreation of Spotify's interface showcasing advanced frontend d
 ## 💡 Core Strengths
 
 ```javascript
-const strengths = {
-    code_quality: "Clean, maintainable, and well-documented",
-    problem_solving: "Strong debugging and analytical skills",
-    collaboration: "Effective team player and communicator",
-    learning: "Quick learner who adapts rapidly",
-    passion: "Genuinely excited about building great products"
+const himanshu = {
+    role: "Full Stack MERN Developer",
+    languages: ["C++", "JavaScript"],
+    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    core_skills: [
+        "Data Structures & Algorithms",
+        "REST API Development",
+        "Authentication with JWT",
+        "Responsive Web Design",
+        "Git & GitHub"
+    ],
+    strengths: [
+        "Problem Solving",
+        "Clean & Scalable Code",
+        "Quick Learner",
+        "Team Collaboration",
+        "Continuous Improvement"
+    ],
+    current_focus: "Building scalable full-stack applications and improving DSA for software engineering roles"
 };
 ```
 
----
 
 ## 🏆 Coding Profiles
 
