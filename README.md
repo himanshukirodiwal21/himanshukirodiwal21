@@ -148,32 +148,36 @@ A pixel-perfect recreation of Spotify's interface showcasing advanced frontend d
 ## 💡 Core Strengths
 
 ```javascript
-    const himanshu = {
-    role: "Full Stack MERN Developer",
-    languages: ["C++", "JavaScript"],
-    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    core_skills: [
-        "Data Structures & Algorithms",
-        "REST API Development",
-        "Authentication with JWT",
-        "Responsive Web Design",
-        "Git & GitHub"
-    ],
-    strengths: [
-        "Problem Solving",
-        "Clean & Scalable Code",
-        "Quick Learner",
-        "Team Collaboration",
-        "Continuous Improvement"
-    ],
-    current_focus:
-        "Building scalable MERN applications " +
-        "and strengthening DSA skills"
-    };
-    ```
+const himanshu = {
+  role: "Full Stack MERN Developer",
+  languages: ["C++", "JavaScript"],
+  frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js"],
+  database: ["MongoDB"],
 
+  coreSkills: [
+    "Data Structures & Algorithms",
+    "REST API Development",
+    "JWT Authentication",
+    "Responsive Web Design",
+    "Git & GitHub"
+  ],
+
+  strengths: [
+    "Problem Solving",
+    "Clean & Scalable Code",
+    "Quick Learner",
+    "Team Collaboration",
+    "Continuous Improvement"
+  ],
+
+  currentFocus:
+    "Building scalable MERN applications " +
+    "and strengthening DSA skills"
+};
+```
+
+---
 
 ## 🏆 Coding Profiles
 
@@ -206,7 +210,7 @@ I'm always excited to collaborate on interesting projects, discuss technology, o
 
 ### ⭐ If you find my projects interesting, consider starring them!
 
-**"First, solve the problem. Then, write the code."**
+> **"First, solve the problem. Then, write the code."**
 
 ![Thanks](https://img.shields.io/badge/Thanks_for_visiting!-Come_back_soon-blue?style=for-the-badge)
 
