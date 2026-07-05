@@ -150,30 +150,10 @@ A pixel-perfect recreation of Spotify's interface showcasing advanced frontend d
 ```javascript
 const himanshu = {
   role: "Full Stack MERN Developer",
-  languages: ["C++", "JavaScript"],
-  frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB"],
-
-  coreSkills: [
-    "Data Structures & Algorithms",
-    "REST API Development",
-    "JWT Authentication",
-    "Responsive Web Design",
-    "Git & GitHub"
-  ],
-
-  strengths: [
-    "Problem Solving",
-    "Clean & Scalable Code",
-    "Quick Learner",
-    "Team Collaboration",
-    "Continuous Improvement"
-  ],
-
-  currentFocus:
-    "Building scalable MERN applications " +
-    "and strengthening DSA skills"
+  stack: "MERN",
+  language: "C++ & JavaScript",
+  focus: "DSA • Backend • React",
+  status: "Open to Opportunities 🚀"
 };
 ```
 
