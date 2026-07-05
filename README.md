@@ -104,6 +104,8 @@ A full-stack interview preparation platform designed to help students and job se
 
 **🛠️ Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT • AI APIs
 
+---
+
 
 ### [🗺️ Tourist Guide Website](https://himanshukirodiwal21.github.io/Tourist-Guide/)
 
@@ -166,9 +168,11 @@ const himanshu = {
         "Team Collaboration",
         "Continuous Improvement"
     ],
-    current_focus: "Building scalable full-stack applications and improving DSA for software engineering roles"
+    current_focus:
+        "Building scalable MERN applications " +
+        "and strengthening DSA skills"
 };
-```
+    ```
 
 
 ## 🏆 Coding Profiles
