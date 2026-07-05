@@ -148,7 +148,7 @@ A pixel-perfect recreation of Spotify's interface showcasing advanced frontend d
 ## 💡 Core Strengths
 
 ```javascript
-const himanshu = {
+    const himanshu = {
     role: "Full Stack MERN Developer",
     languages: ["C++", "JavaScript"],
     frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS"],
@@ -171,7 +171,7 @@ const himanshu = {
     current_focus:
         "Building scalable MERN applications " +
         "and strengthening DSA skills"
-};
+    };
     ```
 
 
